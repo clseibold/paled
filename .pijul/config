@@ -1,0 +1,6 @@
+current_channel = "main"
+default_remote = "nest"
+
+[remotes]
+nest = "krixano@nest.pijul.com:krixano/paled"
+
